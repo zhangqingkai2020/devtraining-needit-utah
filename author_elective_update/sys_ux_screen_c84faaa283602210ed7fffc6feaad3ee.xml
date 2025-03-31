@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="DELETE">
+        <active>true</active>
+        <app_config display_value="Advanced Dashboards">02dc36706f01011089060168e25b3691</app_config>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <event_mappings/>
+        <macroponent/>
+        <macroponent_config>{}</macroponent_config>
+        <name>Widgets default</name>
+        <order>0</order>
+        <parent_macroponent display_value="UXR Base Experience Shell - Advanced">47bcb58553030110aab9ddeeff7b12c2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Widgets">444faaa283602210ed7fffc6feaad3e8</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-31 00:31:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c84faaa283602210ed7fffc6feaad3ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Widgets default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_screen_c84faaa283602210ed7fffc6feaad3ee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-31 00:31:52</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="DELETE" query="documentkey=c84faaa283602210ed7fffc6feaad3ee"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>4ca87aef2b9f9e98e2e6fcd2ce91bf73</instance_id>
+        <instance_name>dev294362</instance_name>
+        <name>sys_ux_screen_c84faaa283602210ed7fffc6feaad3ee</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen"><sys_ux_screen action="INSERT_OR_UPDATE"><active>true</active><app_config display_value="Advanced Dashboards">02dc36706f01011089060168e25b3691</app_config><description/><disable_auto_reflow>false</disable_auto_reflow><event_mappings/><macroponent/><macroponent_config>{}</macroponent_config><name>Widgets default</name><order>0</order><parent_macroponent display_value="UXR Base Experience Shell - Advanced">47bcb58553030110aab9ddeeff7b12c2</parent_macroponent><required_translations>[ ]</required_translations><rollback_screen/><screen_condition/><screen_type display_value="Widgets">444faaa283602210ed7fffc6feaad3e8</screen_type><sys_class_name>sys_ux_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-31 00:31:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c84faaa283602210ed7fffc6feaad3ee</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Widgets default</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_screen_c84faaa283602210ed7fffc6feaad3ee</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-31 00:31:52</sys_updated_on></sys_ux_screen><sys_translated_text action="delete_multiple" query="documentkey=c84faaa283602210ed7fffc6feaad3ee"/></record_update>]]></payload>
+        <payload_hash>-962085764</payload_hash>
+        <record_name>Widgets default</record_name>
+        <reverted_from/>
+        <source>dec980aa83102210ed7fffc6feaad3b1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-31 01:16:30</sys_created_on>
+        <sys_id>fd797aa283a02210ed7fffc6feaad3ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195e9c583360000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-31 01:16:30</sys_updated_on>
+        <type>UX Screen</type>
+        <update_guid>c44faaa248602210e23f4fa9213519f1</update_guid>
+        <update_guid_history>c44faaa248602210e23f4fa9213519f1:-1080178872,c44faaa248602210e23f4fa9213519f1:-1080178872</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-31 01:16:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen">sys_ux_screen</sys_db_object>
+        <sys_id>31b33dc6968246509bfaa45c7a206a64</sys_id>
+        <sys_metadata>c84faaa283602210ed7fffc6feaad3ee</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Widgets default</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_c84faaa283602210ed7fffc6feaad3ee</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_c84faaa283602210ed7fffc6feaad3ee">fd797aa283a02210ed7fffc6feaad3ee</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-31 01:16:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

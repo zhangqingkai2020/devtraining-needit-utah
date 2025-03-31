@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="DELETE">
+        <app_config display_value="Advanced Dashboards">02dc36706f01011089060168e25b3691</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>New dashboard</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="UXR Base Experience Shell - Advanced">47bcb58553030110aab9ddeeff7b12c2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>new_dashboard-1272141917</route_type>
+        <screen_type display_value="New dashboard">6e89faa283a02210ed7fffc6feaad3d0</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-31 01:16:49</sys_created_on>
+        <sys_id>e289faa283a02210ed7fffc6feaad3e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New dashboard</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_app_route_e289faa283a02210ed7fffc6feaad3e1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-31 01:16:49</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="DELETE" query="documentkey=e289faa283a02210ed7fffc6feaad3e1"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>4ca87aef2b9f9e98e2e6fcd2ce91bf73</instance_id>
+        <instance_name>dev294362</instance_name>
+        <name>sys_ux_app_route_e289faa283a02210ed7fffc6feaad3e1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config display_value="Advanced Dashboards">02dc36706f01011089060168e25b3691</app_config><description/><extension_point/><fields/><icon/><name>New dashboard</name><optional_parameters/><order>0</order><parent_macroponent display_value="UXR Base Experience Shell - Advanced">47bcb58553030110aab9ddeeff7b12c2</parent_macroponent><parent_macroponent_composition_element_id/><route_type>new_dashboard-1272141917</route_type><screen_type display_value="New dashboard">6e89faa283a02210ed7fffc6feaad3d0</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-31 01:16:49</sys_created_on><sys_id>e289faa283a02210ed7fffc6feaad3e1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New dashboard</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_app_route_e289faa283a02210ed7fffc6feaad3e1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-31 01:16:49</sys_updated_on></sys_ux_app_route><sys_translated_text action="delete_multiple" query="documentkey=e289faa283a02210ed7fffc6feaad3e1"/></record_update>]]></payload>
+        <payload_hash>1308432033</payload_hash>
+        <record_name>New dashboard</record_name>
+        <reverted_from/>
+        <source>dec980aa83102210ed7fffc6feaad3b1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-31 01:16:49</sys_created_on>
+        <sys_id>2e89faa283a02210ed7fffc6feaad3e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195e9c5cec70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-31 01:16:49</sys_updated_on>
+        <type>UX App Route</type>
+        <update_guid>2289faa25ca02210b6c2ffb582faa6e3</update_guid>
+        <update_guid_history>2289faa25ca02210b6c2ffb582faa6e3:1308432033</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-31 01:17:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_route">sys_ux_app_route</sys_db_object>
+        <sys_id>06a247d616fc4e2c94beeb06c75aac90</sys_id>
+        <sys_metadata>e289faa283a02210ed7fffc6feaad3e1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New dashboard</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_app_route_e289faa283a02210ed7fffc6feaad3e1</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_route_e289faa283a02210ed7fffc6feaad3e1">2e89faa283a02210ed7fffc6feaad3e3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-31 01:17:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
